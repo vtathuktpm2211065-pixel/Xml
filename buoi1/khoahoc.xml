@@ -5,7 +5,6 @@
            xmlns:student="http://example.com/student">
     <course:course id="C001" category="Lập trình">
         <course:title>Python cơ bản</course:title>
-
         <instructor:instructor id="I001">
             <instructor:name>Nguyễn Văn An</instructor:name>
             <instructor:email>nguyenvanan@example.com</instructor:email>
