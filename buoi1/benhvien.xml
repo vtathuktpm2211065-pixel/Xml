@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hospital SYSTEM "C:\Users\HP\Documents\GitHub\Xml\dtd_cua_bai1\benhvien.dtd">
+<hospital>
+    <appointment id="A001" date="2025-03-05" status="Đã khám">
+        <patient id="P001">
+            <name>Nguyễn Văn An</name>
+            <dob>1990-07-15</dob>
+        </patient>
+        <doctor id="D001">
+            <name>Trần Thị Bình</name>
+            <specialty>Nội khoa</specialty>
+        </doctor>
+    </appointment>
+
+    <appointment id="A002" date="2025-04-10" status="Chưa khám">
+        <patient id="P002">
+            <name>Phạm Thị Chi</name>
+            <dob>1985-12-22</dob>
+        </patient>
+        <doctor id="D002">
+            <name>Lê Văn Dương</name>
+            <specialty>Ngoại khoa</specialty>
+        </doctor>
+    </appointment>
+</hospital>
