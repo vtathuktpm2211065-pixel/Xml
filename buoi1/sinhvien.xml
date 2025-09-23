@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE class SYSTEM "C:\Users\HP\Documents\GitHub\Xml\dtd_cua_bai1\sinhvien.dtd">
+<class>
+    <student>
+        <id>SV001</id>
+        <name>Võ Thị Anh Thư</name>
+        <subjects>
+            <subject>
+                <subject_name>Toán</subject_name>
+                <score>8.5</score>
+            </subject>
+            <subject>
+                <subject_name>Lý</subject_name>
+                <score>7.8</score>
+            </subject>
+            <subject>
+                <subject_name>Hóa</subject_name>
+                <score>9.0</score>
+            </subject>
+        </subjects>
+    </student>
+
+    <student>
+        <id>SV002</id>
+        <name>Tô Như Quỳnh</name>
+        <subjects>
+            <subject>
+                <subject_name>Toán</subject_name>
+                <score>7.0</score>
+            </subject>
+            <subject>
+                <subject_name>Văn</subject_name>
+                <score>8.2</score>
+            </subject>
+            <subject>
+                <subject_name>Anh</subject_name>
+                <score>9.1</score>
+            </subject>
+        </subjects>
+    </student>
+
+    <student>
+        <id>SV003</id>
+        <name>Bùi Hoàng Nhất</name>
+        <subjects>
+            <subject>
+                <subject_name>Sinh</subject_name>
+                <score>6.5</score>
+            </subject>
+            <subject>
+                <subject_name>Sử</subject_name>
+                <score>7.2</score>
+            </subject>
+            <subject>
+                <subject_name>Địa</subject_name>
+                <score>8.0</score>
+            </subject>
+        </subjects>
+    </student>
+</class>
